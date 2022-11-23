@@ -1,6 +1,8 @@
 Hi, I'm Marcel 😉
 
-I love it, to develop apps for Android™ and to create webapplications and websites. I prefer to work on the frontend, but I'm also interested in backend.
+I love it, to develop apps for Android™ and to create webapplications and websites. Currently I am a trainee and I am working on backend development with ASP .NET Core.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcelbohland&show_icons=true&theme=dracula&hide_title=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Programming languages I have experience with:
 
@@ -30,7 +32,3 @@ I love it, to develop apps for Android™ and to create webapplications and webs
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1920px-Node.js_logo.svg.png" alt="NodeJS" height="50">
 
 </div>
-
-<br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcelbohland&show_icons=true&theme=dracula&hide_title=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
