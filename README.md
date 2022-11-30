@@ -16,7 +16,7 @@ I love it, to develop apps for Android™ and to create webapplications and webs
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1920px-PHP-logo.svg.png" alt="Php" height="40">
 </div>
 
-### Frameworks and labraries I have experience with:
+### Frameworks and libraries I have experience with:
 
 <div >
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1024px-Angular_full_color_logo.svg.png" alt="Angular" height="46">
