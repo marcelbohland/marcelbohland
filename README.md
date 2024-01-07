@@ -1,6 +1,6 @@
 Hi, I'm Marcel 😉
 
-I love it, to develop apps for Android™ and to create webapplications and websites. Currently I am a trainee and I am working on backend development with ASP .NET Core.
+I love it, to develop apps for Android™ and to create webapplications and websites. I am currently working as a backend developer with ASP .NET Core.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcelbohland&show_icons=true&theme=dracula&hide_title=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
